@@ -11,5 +11,5 @@ Aspen HYSYS is a process simulation software widely used by chemical engineers t
 
 ### Content
 
-- [Design Simulation of Production Butyl Chloride from Butanol and Chloric Acid Capacity 25000 kg/year] ()
+- [Design Simulation of Production Butyl Chloride from Butanol and Chloric Acid Capacity 25000 kg/year]
 
