@@ -14,3 +14,4 @@ I have make some simulation in hysys below
 
 - [Design Simulation of Production Butyl Chloride from Butanol and Chloric Acid Capacity 25000 ton/year](https://github.com/royhanikbarr/Aspen-Hysys-Simulation/tree/e93e32877e94579a911c11fe34de5708fb8ce9dd/Design%20Simulation%20Production%20Butyl%20Chloride)
 
+- [Gas Turbine Power Plant Simulation](https://github.com/royhanikbarr/Gas-Turbine-Hysys/tree/main)
